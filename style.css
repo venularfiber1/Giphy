@@ -1,0 +1,36 @@
+body {
+    background-color: lightgray;
+    font-weight: 300;
+  }
+  
+  .div-no-block {
+      display: inline;
+  }
+  
+  .container {
+      width: 80%;
+      height: auto;
+      margin: 0 auto;
+  }
+  
+
+  
+  
+  .wrapper{
+      float: right;
+      width: 20%;
+  }
+  
+
+  
+  img.gif {
+      width: 250px;
+      position: relative;
+      overflow: auto; 
+  }
+
+  button{
+      width: 100px;
+      padding: 15px;
+      margin: 10px;
+  }
